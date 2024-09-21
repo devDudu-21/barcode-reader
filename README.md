@@ -181,4 +181,3 @@ Sinta-se à vontade para abrir issues e pull requests no repositório. Qualquer 
 
 MIT License
 
-> > > > > > > master
