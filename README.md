@@ -17,6 +17,7 @@ O projeto está modularizado da seguinte forma:
 ```go
 /
 |-- src/
+|-- utils/
 | |-- index.ts
 | |-- extractPage.ts
 | |-- readBarcode.ts
