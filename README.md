@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# barcode-reader
-=======
 # Leitor de Boletos Bancários com Código de Barras
 
 Este projeto é um leitor de boletos bancários que extrai o código de barras de arquivos PDF e decodifica seus dados, como banco, valor e data de vencimento. Ele utiliza bibliotecas como Poppler, Quagga2 e PDF-lib para manipulação de PDFs e leitura de códigos de barras.
@@ -182,4 +179,5 @@ Sinta-se à vontade para abrir issues e pull requests no repositório. Qualquer 
 ### Licença
 
 MIT License
->>>>>>> master
+
+> > > > > > > master
